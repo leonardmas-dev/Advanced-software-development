@@ -1,2 +1,2 @@
-print("ssssssssssssssssdhkkkkkkkkakjshdjashdlasdasdasdasdssss")
+print("syyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyyysdssss")
 
