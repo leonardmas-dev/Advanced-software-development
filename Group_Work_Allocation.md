@@ -15,7 +15,7 @@ Each one of us owns a complete module (UI + backend + logic), so everyone can wo
 
 ---
 
-## Section NO.1 - Allocated to:  – Tenants + Tenant Portal
+## Section NO.1 - Allocated to: Leonard Masters – Tenants + Tenant Portal
 
 **UI Folders**
 
@@ -52,7 +52,7 @@ Each one of us owns a complete module (UI + backend + logic), so everyone can wo
 
 ---
 
-## Section NO.2 - Allocated to:  – Apartments + Leases
+## Section NO.2 - Allocated to: Thierno Batiga – Apartments + Leases
 
 **UI Folders**
 
@@ -86,7 +86,7 @@ Each one of us owns a complete module (UI + backend + logic), so everyone can wo
 
 ---
 
-## Section NO.3 - Allocated to:  – Payments & Billing
+## Section NO.3 - Allocated to: Adrian Motor – Payments & Billing
 
 **UI Folder**
 
@@ -116,7 +116,7 @@ Each one of us owns a complete module (UI + backend + logic), so everyone can wo
 
 ---
 
-## Section NO.4 - Allocated to:  – Maintenance + Complaints
+## Section NO.4 - Allocated to: Ishak Askar – Maintenance + Complaints
 
 **UI Folders**
 
