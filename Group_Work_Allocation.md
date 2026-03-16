@@ -204,9 +204,5 @@ Each one of us owns a complete module (UI + backend + logic), so everyone can wo
 
 - The full project structure is shared via the GitHub repo.
 - Each person works **only** inside their assigned folders and files.
-- Once login + navigation are working, others can:
-  - run the app
-  - log in with their role
-  - access their module from the menu
 - Everyone uses `git pull` to stay up to date and `git push` to share changes.
 - Because modules are separated between us, integration at the end should be straightforward.
