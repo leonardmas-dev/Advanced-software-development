@@ -1,9 +1,12 @@
+from ui.login_page import LoginPage
 from database.database_manager import initialize_database
-from ui.main_window import start_ui
 
 def main():
+    # Ensure DB is ready
     initialize_database()
-    start_ui()
+    # Start login screen
+    login = LoginPage()
+    login.mainloop()
 
 if __name__ == "__main__":
     main()

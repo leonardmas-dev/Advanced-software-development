@@ -41,7 +41,7 @@ Each one of us owns a complete module (UI + backend + logic), so everyone can wo
 
 **Responsibilities**
 
-- Tenant CRUD (add, edit, list)
+- Tenant CRUD (Create, Read, Update, Delete)
 - Tenant portal dashboard
 - View own payment history
 - Submit complaints
@@ -77,7 +77,7 @@ Each one of us owns a complete module (UI + backend + logic), so everyone can wo
 
 **Responsibilities**
 
-- Apartment CRUD
+- Apartment CRUD (Create, Read, Update, Delete)
 - Apartment availability status
 - Lease creation and editing
 - Early termination logic (1 month notice + 5% penalty)
